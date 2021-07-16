@@ -16,14 +16,14 @@
 Type theme comes with different customizations in the `_config.yml` file:
 
 ```sh
-title:       Type
+title:       이해온의 트래블로그
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         '' # The base hostname & protocol for your site
+url:         'http://haeonlee.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
-instagram:   ''
+instagram:   'https://www.instagram.com/on_it_book'
 facebook:    ''
 
 markdown:  kramdown
