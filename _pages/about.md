@@ -1,11 +1,22 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: '/images/pages/about.jpg'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+> ❝죽음을 앞둔 사람들이 가장 후회하는 것은 '삶을 그렇게 심각하게 살지 말았어야 했다'는 것이다.
+우리는 모두 별의 순례자이다. 단 한 번의 놀이를 위해 이곳에 왔다.❞
+엘리자베스 퀴블러 로스, 『인생 수업』
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+단 한 번의 놀이를 위해 지구로 온 여행객. 길어도 백 년을 못 넘을 짧은 여행이기에, 지구 곳곳에 맘껏 발자국을 남겨 보려 합니다.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+이곳은, 한 청년의 좌충우돌 인생 여행기로 가득할 ≪이해온의 트래블로그travelog of heaonlee≫입니다.
+
+제 소개를 드리자면,
+
+IT 기업가를 꿈꾸고 있는 청년이자,
+경영과 융합소프트웨어를 복수 전공하고 있는 대학생이며,
+세상을 함께 따뜻한 곳으로 만들고 싶은 사람 이해온입니다.
+
+같은 시대에, 같은 공간을 여행하게 되어 영광입니다. 
+이곳에서 많은 이야기를 나눌 수 있길 바랍니다.
