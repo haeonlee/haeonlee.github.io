@@ -4,7 +4,7 @@ title: ABOUT TRAVELOG
 image: '/images/pages/profile.png'
 ---
 
-# I'm Haeon Lee, </br> an Earth Traveler.
+# I'm Haeon Lee, <\br> an Earth Traveler.
 ### 개발자이자 마케터
 
 > 죽음 앞둔 사람들이 가장 후회하는 것은 '삶을 그렇게 심각하게 살지 말았어야 했다'는 것이다.
@@ -18,13 +18,7 @@ image: '/images/pages/profile.png'
 ---
 
 🎓 **EDUCATION**
-
-`2020` 서강대학교 경영·융합소프트웨어 복수 전공
-
-```docker
-🎓 **EDUCATION**
-
-```
+`2020` 서강대학교 경영 · 융합소프트웨어 복수 전공
 
 ---
 
