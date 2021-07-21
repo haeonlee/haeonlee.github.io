@@ -4,35 +4,34 @@ title: About
 image: '/images/pages/profile.png'
 ---
 
-# I'm **Haeon Lee**,  an Earth Traveler.
-### 마케팅 하는 개발자
+# I'm Haeon Lee, <br/> an Earth Traveler.
 
-인스타그램 : 이해온의 자기계발 @on_it_book  
-github :  
-linkedin :  
-email :  
+## 마케팅 하는 개발자
+
+인스타그램 : 
+github : 
+linkedin : 
+email : 
 
 ---
 
 **EDUCATION**
+
 2020 서강대학교 경영·융합소프트웨어 복수 전공
 
 ---
 
 **SKILLS**
-
-Language : 
-Frontend : 
-Mobile : 
-Databases : 
-Misc : 
-
----
+Language :
+Fronted :
+Mobile :
+Databases :
+Misc :
 
 **PROJECTS**
-
 - A
 - B
+****
 
 ---
 
@@ -40,8 +39,6 @@ Misc : 
 
 - A
 - B
-
----
 
 **HACKATHONS**
 
