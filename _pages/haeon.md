@@ -6,7 +6,8 @@ image: '/images/pages/profile.png'
 
 # I'm <span style="color:#f59b25">Haeon Lee</span>, <br/> an Earth Traveler.
 
-#### 지구를 여행하는 <br/> 개발자 그리고 전략기획자
+#### 지구를 여행하는 
+### 개발자 그리고 전략기획자
 
 ---
 
