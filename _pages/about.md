@@ -22,7 +22,7 @@ image: '/images/pages/profile.png'
 
 ---
 
-👩🏻‍💻 **SKILLS**
+👩🏻‍💻 **SKILLS** <br/>
 - Language :
 - Fronted :
 - Mobile :
@@ -31,19 +31,19 @@ image: '/images/pages/profile.png'
 
 ---
 
-📑 **PROJECTS**
+📑 **PROJECTS** <br/>
 - A
 - B
 
 ---
 
-🏃🏻‍♀️ **HACKATHONS**
+🏃🏻‍♀️ **HACKATHONS** <br/>
 - A
 - B
 
 ---
 
-🏢 **WORK EXPERIENCE**
+🏢 **WORK EXPERIENCE** <br/>
 - A
 - B
 
