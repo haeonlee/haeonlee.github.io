@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT HAEON
+title: HAEON LEE
 image: '/images/pages/profile.png'
 ---
 
