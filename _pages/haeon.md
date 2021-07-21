@@ -6,7 +6,7 @@ image: '/images/pages/profile.png'
 
 # I'm <span style="color:#f59b25">Haeon Lee</span>, <br/> an Earth Traveler.
 
-### 지구를 여행하는 <br/> 개발자 그리고 전략기획자
+#### 지구를 여행하는 <br/> 개발자 그리고 전략기획자
 
 ---
 
@@ -16,19 +16,19 @@ image: '/images/pages/profile.png'
 우리는 모두 별의 여행자이며, 단 한 번의 놀이를 위해 이곳에 왔다. <br/> 
 **엘리자베스 퀴블러 로스Elisabeth Kübler-Ross**
 
-📷 instagram [@on_it_book](https://www.instagram.com/on_it_book)
-💻 github [github.com/haeonlee](https://github.com/haeonlee)
-🔗 linkedin [linkedin.com/in/haeonlee](https://www.linkedin.com/in/haeonlee/)
-📮 email haeon.lee.dev@gmail.com
+📷 **instagram** [@on_it_book](https://www.instagram.com/on_it_book) <br/>
+🌿 **github** [github.com/haeonlee](https://github.com/haeonlee) <br/>
+🔗 **linkedin** [linkedin.com/in/haeonlee](https://www.linkedin.com/in/haeonlee/) <br/>
+📮 **email** haeon.lee.dev@gmail.com
 
 ---
 
-🎓 **EDUCATION** 
+#### 🎓 **EDUCATION** 
 - `2020` 서강대 경영 · 융합소프트웨어
 
 ---
 
-👩🏻‍💻 **SKILLS** 
+#### 👩🏻‍💻 **SKILLS** 
 - Language : (Python, C, Java, Javascript)
 - Mobile : (Swift)
 - Front-End : (html/css)
@@ -38,19 +38,19 @@ image: '/images/pages/profile.png'
 
 ---
 
-📑 **PROJECTS** 
+#### 📑 **PROJECTS** 
 - A
 - B
 
 ---
 
-🏃🏻‍♀️ **HACKATHONS** 
+#### 🏃🏻‍♀️ **HACKATHONS** 
 - A
 - B
 
 ---
 
-🏢 **WORK EXPERIENCE** 
+#### 🏢 **WORK EXPERIENCE** 
 - A
 - B
 
