@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TRAVELOG
+title: ABOUT TRAVELOG
 image: '/images/pages/profile.png'
 ---
 
