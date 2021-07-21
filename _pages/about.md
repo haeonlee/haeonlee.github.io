@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpg'
+image: '/images/pages/about.jpeg'
 ---
 
 > ❝죽음을 앞둔 사람들이 가장 후회하는 것은 '삶을 그렇게 심각하게 살지 말았어야 했다'는 것이다.
