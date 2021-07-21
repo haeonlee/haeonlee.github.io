@@ -7,12 +7,12 @@
 
 # Site settings
 title:       이해온의 트래블로그
-email:       ''
+email:       'haeon.lee.dev@gmail.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '"https://heaonlee.github.io"' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/haeonlee'
 instagram:   'https://www.instagram.com/on_it_book'
 facebook:    ''
 
