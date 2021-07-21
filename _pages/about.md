@@ -4,14 +4,13 @@ title: About
 image: '/images/pages/profile.png'
 ---
 
-# I'm **Haeon Lee**,
-# an Earth Traveler.
-### 마케팅하는 개발자
+# I'm **Haeon Lee**,  an Earth Traveler.
+### 마케팅 하는 개발자
 
-인스타그램: 이해온의 자기계발 @on_it_book  
-github:  
-linkedin:  
-email:  
+인스타그램 : 이해온의 자기계발 @on_it_book  
+github :  
+linkedin :  
+email :  
 
 ---
 
