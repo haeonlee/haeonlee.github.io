@@ -1,8 +1,10 @@
 ---
 layout: page
-title: ABOUT TRAVELOG
+title: TRAVELOG
 image: '/images/pages/profile.png'
 ---
+
+(스정화자... 자고인나서)
 
 # I'm Haeon Lee, <br/> an Earth Traveler.
 ### 개발자이자 전략기획자
