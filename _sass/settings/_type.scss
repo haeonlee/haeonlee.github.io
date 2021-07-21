@@ -15,10 +15,12 @@ $font-base:
   'Segoe UI Symbol';
 $font-monospace:  Courier, monospace;
 
-$font-size-base:   16.5px;
-$font-size-medium: 16.5px;
-$font-size-small:  14px;
-$font-size-tiny:   12px;
+$font-size: 10px
+
+$font-size-base:   1.65rem;
+$font-size-medium: 1.65rem;
+$font-size-small:  1.4rem;
+$font-size-tiny:   1.2rem;
 
 $font-weight-light:   500;
 $font-weight-regular: 700;
@@ -29,15 +31,3 @@ $line-height-base:   round($font-size-base   *  1.7);
 $line-height-medium: round($font-size-medium * 1.55);
 $line-height-small:  round($font-size-small  * 1.55);
 $line-height-tiny:   round($font-size-tiny   * 1.55);
-
-@include breakpoint($medium) {
-  font-size: 16px;
-}
-
-@include breakpoint($large) {
-  font-size: 16px;
-}
-
-@include breakpoint($x-large) {
-  font-size: 16px;
-}
