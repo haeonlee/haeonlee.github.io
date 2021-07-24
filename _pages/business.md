@@ -1,10 +1,10 @@
 ---
 layout: page
-title: business
+title: 경영
 image: '/images/pages/business.png'
 ---
 
-# 경영학 <br/>with <span style="color:#ffd034">Haeon Lee</span>
+# Business <br/>with <span style="color:#ffd034">Haeon Lee</span>
 ### 현명한 경영자가 되고 싶어
 ---
 
