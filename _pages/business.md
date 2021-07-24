@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Business
+title: business
 image: '/images/pages/business.png'
 ---
 

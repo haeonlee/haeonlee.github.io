@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programming
+title: programming
 image: '/images/pages/programming.png'
 ---
 
