@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 경영
+title: Business
 image: '/images/pages/business.png'
 ---
 
