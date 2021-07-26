@@ -8,23 +8,23 @@ layout: null
       xsi : schemaLocation = "http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd ">
 <URL>
-  <loc> https://www.ascentkorea.com/search-engine-optimization/ </ loc>
+  <loc> https://www.ascentkorea.com/search-engine-optimization/ </loc>
   <priority> 1.00 </ priority>
   <changefreq> weekly </ changefreq>
-</ url>
+</url>
 <URL>
-  <loc> https://www.ascentkorea.com/search-data-research-content-marketing/ </ loc>
+  <loc> https://www.ascentkorea.com/search-data-research-content-marketing/ </loc>
   <priority> 0.80 </ priority>
   <changefreq> weekly </ changefreq>
-</ url>
+</url>
 <URL>
-  <loc> https://www.ascentkorea.com/japan-marketing/ </ loc>
+  <loc> https://www.ascentkorea.com/japan-marketing/ </loc>
   <priority> 0.80 </ priority>
   <changefreq> weekly </ changefreq>
-</ url>
+</url>
 <URL>
-  <loc> https://www.ascentkorea.com/ascent-korea-official-blog-listeningmind/ </ loc>
+  <loc> https://www.ascentkorea.com/ascent-korea-official-blog-listeningmind/ </loc>
   <priority> 0.80 </ priority>
   <changefreq> weekly </ changefreq>
-</ url>
-</ urlset>
+</url>
+</urlset>
