@@ -11,10 +11,10 @@ email:       'haeon.lee.dev@gmail.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '"https://heaonlee.github.io"' # The base hostname & protocol for your site
-twitter:     ''
+youtube:     ''
 github:      'https://github.com/haeonlee'
 instagram:   'https://www.instagram.com/on_it_book'
-facebook:    ''
+linkdin:    'https://www.linkedin.com/in/haeonlee/'
 
 markdown:  kramdown
 permalink: pretty
