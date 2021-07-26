@@ -11,7 +11,12 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
     google_analytics: 'UA-203264752-1'
+    url: "https://haeonlee.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
