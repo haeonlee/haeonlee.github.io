@@ -11,7 +11,7 @@
     font-size: $font-size-small;
     font-family: $font-base;
     line-height: $line-height-medium;
-    border-radius: 85%;
+    border-radius: 30%;
 
     background-color: $color-gray;
     transition: $global-transition;
@@ -19,7 +19,7 @@
     @include attention() {
       text-decoration: none;
       background-color: $color-gray;
-      border-radius: 85%;
+      border-radius: 30%;
     }
   }
 
