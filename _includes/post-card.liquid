@@ -6,6 +6,11 @@
     <div style="color: #94989e;">{{ post.subtitle }}</div>
     <br/>
     <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
+    <div class='c-tags'>
+      {% for tag in page.tags %}
+        <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+      {% endfor %}
+    </div>
   </a>
 
 </div>
