@@ -7,6 +7,15 @@
   max-width: 740px;
 
   &__title {
+    font-size: double($font-size-small);
+    margin-bottom: $base-spacing-unit;
+
+    @include mq($from: tablet) {
+      font-size: double($font-size-medium);
+    }
+  }
+
+  &__subtitle {
     font-size: double($font-size-tiny);
     margin-bottom: $base-spacing-unit;
 
