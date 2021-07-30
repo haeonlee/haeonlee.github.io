@@ -1,5 +1,5 @@
 ---
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+layout : tag_page
+permalink : /tag/blog
+tag : blog
 ---
