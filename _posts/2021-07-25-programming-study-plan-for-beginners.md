@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 개발자 꿈나무의 공부 계획 - 쌩기초부터 프로그래밍 공부하기
-tags: [프로그래밍, 계획]
+tags: [프로그래밍, 계획, blog]
 image: '/images/posts/20210725.jpg'
 subtitle: 할 줄 아는 것은 파이썬 기초 문법 뿐이지만, 언젠가는 고급 개발자가 될 우리를 위해
 ---
