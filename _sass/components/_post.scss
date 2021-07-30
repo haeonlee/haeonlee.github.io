@@ -18,11 +18,11 @@
   &__subtitle {
     font-size: double($font-size-tiny);
     margin-bottom: $base-spacing-unit;
-    color: #90949a;
+    color: $color-point;
 
     @include mq($from: tablet) {
       font-size: double($font-size-small);
-      color: #90949a;
+      color: $color-point;
     }
   }
 
