@@ -14,6 +14,7 @@ layout: default
     {% for post in site.posts %}
       {% for page.tag in site.posts.tags %}
         {% include post-card.liquid %}
+      {% endfor %}
     {% endfor %}
   </div>
 
