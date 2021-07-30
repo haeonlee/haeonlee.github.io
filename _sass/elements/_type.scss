@@ -11,13 +11,17 @@ $font-size-h6:  16px;
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
   font-weight: inherit;
   line-height: initial;
   font-weight: $font-weight-bold;
+}
+
+h3 { 
+  font-weight: inherit;
+  line-height: initial; 
 }
 
 h1 {
