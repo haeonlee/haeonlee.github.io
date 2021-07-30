@@ -13,12 +13,12 @@
     line-height: $line-height-medium;
     border-radius: 85%;
 
-    background-color: $bg-color-gray;
+    background-color: $color-gray;
     transition: $global-transition;
 
     @include attention() {
       text-decoration: none;
-      background-color: $bg-color-gray;
+      background-color: $color-gray;
       border-radius: 85%;
     }
   }
