@@ -1,8 +1,8 @@
 ---
-tag: blog
-dir: tag
-layout: tag_page
+tag_page_dir: tag
+tag_page_layout: tag_page
 tag_permalink_style: pretty
+tag : blog
 ---
 
 <div class='o-wrapper'>
