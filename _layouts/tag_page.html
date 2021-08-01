@@ -11,10 +11,8 @@ layout: default
   </div>
 
   <div class='o-grid'>
-    {% for page.tag in site.tags %} 
-      {% for post in site.posts %}
+    {% for post in page.posts %} 
           {% include post-card.liquid %}
-      {% endfor %}
     {% endfor %}
   </div>
 
