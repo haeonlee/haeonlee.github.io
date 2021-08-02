@@ -18,12 +18,12 @@
   &__subtitle {
     font-size: double($font-size-sub);
     margin-bottom: $base-spacing-unit;
-    color: $color-point;
+    color: $color-gray;
     line-height: 1.3;
 
     @include mq($from: tablet) {
       font-size: double($font-size-sub);
-      color: $color-point;
+      color: $color-gray;
     }
   }
 
@@ -36,7 +36,7 @@
     font-size: $font-size-small;
     font-weight: $font-weight-bold;
     line-height: $line-height-small;
-    color: $color-gray;
+    color: $color-brand;
 
     &:after {
       position: absolute;

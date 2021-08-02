@@ -4,11 +4,25 @@
 
 .c-content {
   a:not(.c-btn) {
-    text-decoration: underline;
+    border-bottom: 1.5px solid;
     text-decoration-skip: ink;
+    line-height: 2.0;
+    padding-bottom:3px;
+    font-weight: bold;
 
     @include attention() {
-      color: $color-brand;
+      text-decoration: none;
+      color: $color-green;
     }
   }
 }
+
+.notice {
+  margin: 2em 0 !important;
+  padding: 1em;
+  border-color: $color-green;
+  background-color: $bg-color-green;
+  box-shadow: 0 1px 1px rgba(189,193,196,0.25);
+  border-style: solid;
+  border-width: 0 0 0 8px;
+  }
