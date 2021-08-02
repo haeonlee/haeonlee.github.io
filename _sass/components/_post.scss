@@ -16,13 +16,13 @@
   }
 
   &__subtitle {
-    font-size: double($font-size-verytiny);
+    font-size: double($font-size-sub);
     margin-bottom: $base-spacing-unit;
     color: $color-point;
     line-height: 1.3;
 
     @include mq($from: tablet) {
-      font-size: double($font-size-small);
+      font-size: double($font-size-sub);
       color: $color-point;
     }
   }

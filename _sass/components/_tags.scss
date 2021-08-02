@@ -13,7 +13,7 @@
     line-height: $line-height-medium;
     border-radius: 20px;
 
-    background-color: $color-gray;
+    background-color: $bg-color-gray;
     transition: $global-transition;
 
     @include attention() {
