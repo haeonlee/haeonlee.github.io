@@ -15,6 +15,7 @@
 
     background-color: $bg-color-gray;
     transition: $global-transition;
+    color: $color-gray;
 
     @include attention() {
       text-decoration: none;

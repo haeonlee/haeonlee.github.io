@@ -4,7 +4,7 @@ title: ABOUT
 image: '/images/pages/logo.png'
 ---
 
-# <span style="color:#ffd034">이해온</span>의 <br/> 트래블로그.
+# <span style="color:#ffd045">이해온</span>의 <br/> 트래블로그.
 
 ### 불타오르는<br/> 호기심을 연료로,<br/> 좌충우돌 지구 여행기
 

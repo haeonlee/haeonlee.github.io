@@ -8,21 +8,28 @@ $font-size-h3:  25px;
 $font-size-h4:  20px;
 $font-size-h5:  18px;
 
-$font-size-h6:  15px;
+$font-size-h6:  18px;
 
 h1,
 h2,
 h3,
-h4,
-h5 {
+{
   font-weight: inherit;
   line-height: 1.5;
   font-weight: $font-weight-bold;
 }
 
+h4, h5 { 
+  font-weight: inherit;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+
 h6 { 
   font-weight: inherit;
   line-height: 1.5;
+  font-weight: 700;
 }
 
 h1 {

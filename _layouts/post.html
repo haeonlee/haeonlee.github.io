@@ -22,11 +22,17 @@ layout: default
 
         <h1 class='c-post__title'>{{ page.title }}</h1>
         <h6 class='c-post__subtitle'>{{ page.subtitle }}</h6>
-
-        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
+        <div>
+          <center>
+            <font color="#9A9A96">by</font>
+            <font color="#4D916E"><b>Haeon Lee</b></font>
+            <font color="#9A9A96">{{page.date | date: '%Y/%m/%d' }}</font>
+          </center>
+        </div>
+        <hr>
 
         <div class='c-content' itemprop='articleBody'>
-          {% include page-image.html %}
+          <br/>
 
           {{ content }}
         </div>

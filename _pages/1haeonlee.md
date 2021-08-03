@@ -4,7 +4,7 @@ title: 이해온
 image: '/images/pages/profile.png'
 ---
 
-# I'm <span style="color:#ffd034">Haeon Lee</span>, <br/> an Earth Traveler.
+# I'm <span style="color:#fae383">Haeon Lee</span>, <br/> an Earth Traveler.
 ### 개발자 그리고 전략기획자
 ---
 

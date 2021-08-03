@@ -3,8 +3,7 @@
   <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
     <h3 class='c-post-card__title'>{{ post.title }}</h3>
 
-    <div style="color: #484640;">{{ post.subtitle }}</div>
-    <br/>
+    <div class='c-post-card__subtitle'>{{ post.subtitle }}</div>
 
     <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
   </a>

@@ -18,7 +18,7 @@
   }
 
   &__title {
-    margin-bottom: half($font-size-base);
+    margin-bottom: 5px;
     font-size: $font-size-base;
     font-weight: $font-weight-bold;
     transition: $global-transition;
@@ -26,6 +26,12 @@
     @include mq($from: tablet) {
       font-size: double($font-size-small);
     }
+  }
+
+  &__subtitle {
+    margin-bottom: half($font-size-medium);
+    font-size: 18px;
+    color: $color-gray;
   }
 
   &__excerpt {
@@ -36,7 +42,7 @@
     display: block;
     color: $color-brand;
     direction: ltr;
-    font-size: $font-size-tiny;
+    font-size: $font-size-small;
     font-weight: $font-weight-bold;
     line-height: $line-height-small;
     text-transform: uppercase;
