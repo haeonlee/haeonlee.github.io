@@ -26,7 +26,7 @@ image: '/images/pages/profile.png'
 
 ---
 
-#### 👩🏻‍💻 **SKILLS** 
+#### 👩🏻‍💻 **TECH STACKS** 
 - Language : (Python, C, Java, Javascript)
 - Mobile : (Swift)
 - Front-End : (html/css)
