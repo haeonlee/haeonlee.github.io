@@ -1,0 +1,25 @@
+---
+layout: default
+tag: [야금야금_iOS]
+---
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <h4>{{ page.tag }}</h4>
+    </div>
+  </div>
+
+  <div class='o-grid'>
+    {% for post in site.posts %}
+    {% if post.tags contains '야금야금_iOS' %}
+      {% include post-card.liquid %}
+    {% endif %}
+    {% endfor %} 
+  </div>
+
+  <div class='o-grid'>
+    {% include pagination.html %}
+  </div>
+</div>
