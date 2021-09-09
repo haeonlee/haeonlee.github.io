@@ -15,7 +15,7 @@ Java 수업 시간에 교수님께서 코드를 직접 입력할 시간을 주�
 # 스피드코더speedcoder
 
 ![https://www.speedcoder.net/static/img/screenshot.png](https://www.speedcoder.net/static/img/screenshot.png)
-<div ps>코드를 보며 타자 연습을 하는 모습, 눌러야 할 키(Key)와 이용해야 할 손가락이 나온다</div>
+<div class='ps'>코드를 보며 타자 연습을 하는 모습, 눌러야 할 키(Key)와 이용해야 할 손가락이 나온다</div>
 
 <br>
 
